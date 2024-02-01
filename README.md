@@ -1,3 +1,16 @@
+
+### Tools:
+[Profilinator-Create a Github Profile](https://profilinator.rishav.dev)<br>
+[Profile Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)<br>
+[README Profile Creator](https://github-profile-readme-creator.web.app)<br>
+[tech icons](https://techicons.dev/icons/pandas)<br>
+[More tech icons](https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file#-python)<br>
+[Even more tech icons](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg)<br>
+[Badges](https://shields.io/badges/static-badge)<br>
+[Awesome Github Badges](https://github.com/chetanraj/awesome-github-badges)<br>
+
+[Minimal Data Science Portfolio](https://chriskhanhtran.github.io/minimal-portfolio/)<br>
+
 <h1 align="center">Awesome GitHub Profile README
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
